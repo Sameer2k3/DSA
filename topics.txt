@@ -1,2 +1,0 @@
-in this dsa course i have used the cpp language
-i have done for loop,if else,switch case,pattern printing, arrays, 
