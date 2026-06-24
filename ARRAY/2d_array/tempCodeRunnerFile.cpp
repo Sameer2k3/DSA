@@ -1,0 +1,1 @@
+rowSum(arr,rows,col);
