@@ -1,1 +1,0 @@
-rowSum(arr,rows,col);

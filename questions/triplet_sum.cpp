@@ -1,4 +1,4 @@
-// find the triplet which sum is 80
+// find the triplet whose sum is 80
 #include <iostream>
 #include <vector>
 using namespace std;

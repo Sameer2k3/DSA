@@ -15,3 +15,6 @@
 # Build folders
 build/
 bin/
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.exe
+*.exe
